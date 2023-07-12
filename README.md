@@ -13,11 +13,3 @@
   the person typing. The typing indicator should disappear 3 seconds after the user stops
   typing
 - Persist the windows and messages on reloading the page
-
-## Components listing
-
-[x] New user - input and button
-[x] Chat window - UI
-[x] All messages, updated after every new message is sent
-[x] Context of user
-[ ] New message, show with time
